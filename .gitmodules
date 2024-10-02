@@ -1,0 +1,24 @@
+[submodule "ioe510"]
+	path = ioe510
+	url = git@github.com:DanielHou315/ioe510.git
+[submodule "eecs498_group8"]
+	path = eecs498_group8
+	url = git@github.com:DanielHou315/eecs498_group8.git
+[submodule "eecs465"]
+	path = eecs465
+	url = git@github.com:DanielHou315/eecs465.git
+[submodule "eecs492"]
+	path = eecs492
+	url = git@github.com:DanielHou315/eecs492.git
+[submodule "eecs442"]
+	path = eecs442
+	url = git@github.com:DanielHou315/eecs442.git
+[submodule "eecs445"]
+	path = eecs445
+	url = git@github.com:DanielHou315/eecs445.git
+[submodule "eecs281"]
+	path = eecs281
+	url = git@github.com:DanielHou315/eecs281.git
+[submodule "eecs280"]
+	path = eecs280
+	url = git@github.com:DanielHou315/eecs280.git

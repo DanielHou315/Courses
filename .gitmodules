@@ -22,3 +22,15 @@
 [submodule "eecs280"]
 	path = eecs280
 	url = git@github.com:DanielHou315/eecs280.git
+[submodule "rob498"]
+	path = rob498
+	url = git@github.com:DanielHou315/rob498.git
+[submodule "eecs370"]
+	path = eecs370
+	url = git@github.com:DanielHou315/eecs370.git
+[submodule "bams498"]
+	path = bams498
+	url = git@github.com:DanielHou315/bams498.git
+[submodule "bams498_simulated_bipeds"]
+	path = bams498_simulated_bipeds
+	url = git@github.com:DanielHou315/bams498_simulated_bipeds.git

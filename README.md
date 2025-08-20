@@ -4,6 +4,7 @@ This repository hosts links to code completed for courses at U-M, either for hom
 
 * EECS 280 Programming and Intro to Data Structures
 * EECS 281 Data Structures and Alglorithms
+* EECS 370 Computer Architecture
 * EECS 442 Computer Vision
 * EECS 445 Machine Learning
 * MATH 440 Lab of Geometry
@@ -11,4 +12,5 @@ This repository hosts links to code completed for courses at U-M, either for hom
 * EECS 492 Intro to Artificial Intelligence (In Progress)
 * EECS 498 Machine Learning Research Experience (In Progress)
 * IOE 510 (MATH 561) Linear Programming (In Progress)
-
+* ROB 498 Robot Learning
+* CSE 692 Advanced Artifical Intelligence

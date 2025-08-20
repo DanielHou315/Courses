@@ -7,10 +7,15 @@ This repository hosts links to code completed for courses at U-M, either for hom
 * EECS 370 Computer Architecture
 * EECS 442 Computer Vision
 * EECS 445 Machine Learning
+
+* EECS 465 Algorithmic Robotics
+* EECS 492 Intro to Artificial Intelligence
+* EECS 498 Machine Learning Research Experience
+* EECS 498 Reinforcement Learning (in progress)
 * MATH 440 Lab of Geometry
-* EECS 465 Algorithmic Robotics (In Progress)
-* EECS 492 Intro to Artificial Intelligence (In Progress)
-* EECS 498 Machine Learning Research Experience (In Progress)
-* IOE 510 (MATH 561) Linear Programming (In Progress)
 * ROB 498 Robot Learning
+* CSE 587 Parallel Computing (in progress)
+* CSE 595 Natural Language Processing (in progress)
+* MATH 526 Discrete Stochastic Process (in progress)
+* IOE 510 (MATH 561) Linear Programming
 * CSE 692 Advanced Artifical Intelligence

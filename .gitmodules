@@ -34,3 +34,12 @@
 [submodule "bams498_simulated_bipeds"]
 	path = bams498_simulated_bipeds
 	url = git@github.com:DanielHou315/bams498_simulated_bipeds.git
+[submodule "cse595"]
+	path = cse595
+	url = git@github.com:DanielHou315/cse595.git
+[submodule "cse587"]
+	path = cse587
+	url = git@github.com:DanielHou315/cse587.git
+[submodule "eecs498_rl"]
+	path = eecs498_rl
+	url = git@github.com:DanielHou315/eecs498_rl.git
